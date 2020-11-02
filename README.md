@@ -1,2 +1,2 @@
-# cssprjc
+# cssprojects
 Contains CSS projects
